@@ -3,7 +3,7 @@
 A new Flutter project.
 # My Profile App
 
-![App Screenshots](screenshots.png)
+![App Screenshots](personal 1.png)
 
 My Profile App is a Flutter-based mobile application that allows users to create and showcase their personal profiles in a stylish and customizable way.
 
